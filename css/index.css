@@ -1,0 +1,26 @@
+.container {
+	margin:0;
+	border:1px solid gray;
+	width:500px;
+}
+.header,.bottom {
+	padding:0.5em;
+	color:white;
+	background-color:gray;
+	clear:left; 
+}
+h1.header {
+	padding:0;
+	margin:0;
+}
+.left {
+	float:left;
+	width: 160px;
+	margin:0;
+	padding:1em;
+}
+.right {
+	margin-left:190px;
+	border-left:1px solid gray;
+	padding:1em;
+}
