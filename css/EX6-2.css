@@ -1,0 +1,37 @@
+.totbtn {
+    display: flex;
+}
+.btn1 {
+    width:100px;
+    height: 50px;
+    display: flex;
+    border-top: 2px solid #000;
+    border-left: 2px solid #000;
+    border-right: 1px solid #000;
+}
+.btn2 {
+    width:100px;
+    height: 50px;
+    display: flex;
+    border-top: 2px solid #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+}
+.btn3 {
+    width:100px;
+    height: 50px;
+    display: flex;
+    border-top: 2px solid #000;
+    border-left: 1px solid #000;
+    border-right: 2px solid #000;
+}
+.box {
+    width: 500px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+    border:2px solid #000;
+    color:#808080;
+}
