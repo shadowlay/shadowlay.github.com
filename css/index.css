@@ -24,3 +24,8 @@ h1.header {
 	border-left:1px solid gray;
 	padding:1em;
 }
+.list {
+	display:flex;
+	flex-direction: column;
+	justify-content: flex-start;
+}
