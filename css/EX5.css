@@ -4,8 +4,9 @@
     background: linear-gradient(rgb(45,147,204), rgb(26,135,196));
     text-align: center;
     line-height: 25px;
-    border-radius:4px;
+    border-radius:3px;
     color:#fff;
+    font-size:13px;
 }
 .part1-linear2 {
     height:5px;
@@ -17,7 +18,7 @@
     width: 20px;
     height: 20px;
     background: #fd590a;
-    font-size: 18px;
+    font-size: 13px;
     margin-left: 84px;
     margin-top:-27px;
     border-radius:4px;
@@ -38,7 +39,7 @@
     height:24px;
     width: 688px;
     margin-top:-45px;
-    font-size: 15px;
+    font-size: 14px;
     margin-left: 5px;
     display:flex;
 }
@@ -46,7 +47,7 @@
     color: #D00002;
     margin-left: 5px;
     margin-top: 3px;
-    margin-right: 5px;
+    margin-right: 4px;
 }
 .part1-w11 {
     color:#D00002;
@@ -62,11 +63,12 @@
     color:#D00002;
     margin-left:10px;
     font-weight: bold;
+    font-size: 13px;
 }
 .part1-w2 {
     height:31px;
     width: 685px;
-    font-size: 15px;
+    font-size: 13px;
     margin-left: 6px;
     margin-top: -3px;
     display:flex;
@@ -87,7 +89,7 @@
     font-weight: bold;
 }
 .part1-w24 {
-    margin-left:30px;
+    margin-left:20px;
 }
 .part1-w25 {
     margin-left: 5px;
@@ -95,7 +97,7 @@
     font-weight: bold;
 }
 .part1-w26 {
-    margin-left: 30px;
+    margin-left: 20px;
 }
 .part1-w27 {
     font-weight: bold;
@@ -127,14 +129,14 @@
     margin-left: 5px;
     color:#2046C0;
     text-decoration:underline;
-    font-size: 12px;
+    font-size: 13px;
     cursor: pointer;
 }
 .part1-bottom-file {
     margin-left: 6px;
     color:#0C36BE;
     text-decoration:underline;
-    font-size: 12px;
+    font-size: 13px;
     cursor: pointer;
 }
 .part2 {
@@ -208,37 +210,38 @@
 .part2_bottom_word {
     margin-left: 8px;
     font-weight: bold;
+    font-size: 14px;
 }
 .part2_bottom_2 {
     width: 65px;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 13px;
+    font-size: 12px;
 }
 .part2_bottom_3 {
     margin-left: 50px;
     color:#2046C0;
     text-decoration:underline;
-    font-size: 13px;
+    font-size: 12px;
     cursor: pointer;
 }
 .part2_bottom_4 {
-    margin-left: 9px;
+    margin-left: 6px;
     color:#2046C0;
     text-decoration:underline;
     font-size: 13px;
     cursor: pointer;
 }
 .part2_bottom_5 {
-    margin-left: 9px;
+    margin-left: 6px;
     color:#2046C0;
     text-decoration:underline;
     font-size: 13px;
     cursor: pointer;
 }
 .part2_bottom_6 {
-    margin-left: 9px;
+    margin-left: 6px;
     color:#2046C0;
     text-decoration:underline;
     font-size: 13px;
@@ -281,7 +284,7 @@
 }
 .part3_1_2word {
     margin-left: 15px;
-    font-size: 15px;
+    font-size: 13px;
     color:#6CA8C9;
     text-decoration:underline;
     cursor: pointer;
@@ -291,7 +294,7 @@
     color:#6CA8C9;
     text-decoration:underline;
     cursor: pointer;
-    font-size: 15px;
+    font-size: 13px;
 }
 .part3_2 {
     width: 65px;
@@ -307,7 +310,7 @@
 .part3_4 {
     width: 79px;
     border-left: 1px solid #CFCFCE;
-    font-size: 13px;
+    font-size: 12px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -315,7 +318,7 @@
 .part3_5 {
     width: 63px;
     border-left: 1px solid #CFCFCE;
-    font-size: 13px;
+    font-size: 12px;
     line-height: 36px;
 }
 .part4{
@@ -338,8 +341,8 @@
     align-items: center;*/
 }
 .part4_bottom_2word {
-    font-size: 13px;
-    margin-left: 10px;
+    font-size: 12px;
+    margin-left: 6px;
 }
 .part4_add {
     width: 101px;
@@ -356,10 +359,10 @@
     z-index: 11;
 }
 .part4_bottom_3 {
-    margin-left: 65px;
+    margin-left: 60px;
     color:#2046C0;
     text-decoration:underline;
-    font-size: 13px;
+    font-size: 12px;
 }
 .part5_3 {
     width: 71px;
