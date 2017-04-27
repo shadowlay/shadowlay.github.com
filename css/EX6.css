@@ -40,6 +40,7 @@
     border-top: 2px solid #000;
     border-left: 2px solid #000;
     /*border-right: 1px solid #000;*/
+    background:#C0C0C0;
     cursor: pointer;
 }
 .btn2 {
