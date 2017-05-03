@@ -7,12 +7,14 @@
     justify-content: center;
     color: white;
     border-bottom: 1px solid #008A7D;
+    padding:0;
 }
 .first-part-1 {
     display: flex;
     align-items: center;
     justify-content: center;
     cursor: pointer;
+    padding:0;
     /*margin-left: -15px;*/
 }
 .first-part-1 i {
@@ -28,17 +30,19 @@
     background: #00A594;
     height: 30px;
     border-radius: 3px;
+    padding:0;
+
     /*margin-left: -15px;*/
 }
 .glyphicon-search {
-    margin-left: -5px;
+    margin-left: 10px;
 }
 .head-search-word {
     margin-left:8px;
     color: #00D3C3;
 }
 .first-part-3 {
-    width: 100%;
+    /*width: 100%;*/
     display: flex;
     align-items: center;
     justify-content: center;
@@ -46,6 +50,8 @@
     cursor: pointer;
     text-align: center;
     font-size: 12px;
+    padding:0;
+    /*padding-left: 0;*/
 }
 .first-part-3 span {
     margin-top: 4px;
@@ -265,7 +271,6 @@
     width: 90px;
     height: 80px;
     background: #666666;
-    border: 1px solid #C5C5C5;
 }
 .img-label {
     position: absolute;
