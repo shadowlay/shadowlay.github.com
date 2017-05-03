@@ -1,0 +1,369 @@
+.first {
+    width: 110%;
+    height: 50px;
+    background: #00C2AE;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    border-bottom: 1px solid #008A7D;
+}
+.first-part-1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    /*margin-left: -15px;*/
+}
+.first-part-1 i {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 7px;
+    font-size: 14px;
+}
+.first-part-2 {
+    display: flex;
+    align-items: center;
+    background: #00A594;
+    height: 30px;
+    border-radius: 3px;
+    /*margin-left: -15px;*/
+}
+.glyphicon-search {
+    margin-left: -5px;
+}
+.head-search-word {
+    margin-left:8px;
+    color: #00D3C3;
+}
+.first-part-3 {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    cursor: pointer;
+    text-align: center;
+    font-size: 12px;
+}
+.first-part-3 span {
+    margin-top: 4px;
+}
+.two {
+    margin-top: -5px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.two row {
+    width: 110%;
+    height: 150px;
+    margin-left: -15px;
+    margin-right: 15px;
+}
+.cir {
+    text-align: center;
+    width: 25%;
+}
+.cir-1 {
+    color: #FF8905;
+}
+.cir-2 {
+    color: #FF6640;
+}
+.cir-3 {
+    color: #7089F6;
+}
+.cir-4 {
+    color: #FF8905;
+}
+.cir-5 {
+    color: #00CDF0;
+}
+.cir-6 {
+    color: #FFBB53;
+}
+.cir-7 {
+    color: #00CDF0;
+}
+.cir-8 {
+    color: #FF8905;
+}
+.back {
+    height: 12px;
+    width: 110%;
+    margin-left: -15px;
+    background: #F1F0EE;
+    border-top:1px solid #E2DCD3;
+    border-bottom:1px solid #E2DCD3;
+}
+.three {
+    height:160px;
+    width: 100%;
+}
+.title-word {
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 8px;
+}
+.title-word2 {
+    font-size: 11px;
+    color:black;
+    margin-top: 7px;
+}
+.three-left {
+    height: 146px;
+    border-right: 1px solid #E2DCD3;
+    display: flex;
+    flex-direction: column;
+    margin-top: 7px;
+    margin-bottom:7px;
+}
+.word-green {
+    color: #08A805;
+}
+.word-red {
+    color:#FF3D00;
+}
+.word-orange {
+    color: #FF8700;
+}
+.word-pink {
+    color: #FF40A4;
+}
+.word-ro {
+    color: #FF6640;
+}
+.three-img1 {
+    width: 75px;
+    height: 75px;
+    background-color: #666666;
+    margin-top: 8px;
+    border: 1px solid #C5C5C5;
+}
+.three-t1 {
+    display: flex;
+    height: 72px;
+    flex-direction: column;
+    border-bottom: 1px solid #E2DCD3;
+    margin-top: 8px;
+}
+.three-t2 {
+    display:flex;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid #E2DCD3;
+}
+.three-img2 {
+    width: 65px;
+    height: 65px;
+    background-color:#666666;
+    border: 1px solid #C5C5C5;
+}
+.three-b1 {
+    height: 72px;
+    display: flex;
+    flex-direction: column;
+    border-right: 1px solid #E2DCD3;
+}
+.three-img3 {
+    width: 35px;
+    height: 35px;
+    background-color:#666666;
+    margin-top: 3px;
+    border: 1px solid #C5C5C5;
+
+}
+.img-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.three-b2 {
+    height: 72px;
+    display: flex;
+    flex-direction: column;
+}
+.three-b2-time {
+    display: flex;
+    text-align: center;
+    font-size: 12px;
+    margin-top: 7px;
+}
+.three-b2-time div {
+    color: #fff;
+}
+.three-b2-time span {
+    color: #000;
+}
+.time-block {
+    width: 20px;
+    height: 14px;
+    background: #4B4B4B;
+    border-radius: 2px;
+    line-height: 14px;
+}
+.four {
+    height: 76px;
+}
+.four-1 {
+    height: 76px;
+    border-right: 1px solid #E2DCD3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.four-2 {
+    height: 76px;
+    border-right: 1px solid #E2DCD3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.four-1-word {
+    width: 65%;
+    display: flex;
+    flex-direction: column;
+}
+.fourimg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: -5px;
+}
+.four-1-img {
+    width: 60px;
+    height: 60px;
+    background-color:#666666;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #C5C5C5;
+}
+.five {
+    height: 40px;
+    /*border-bottom: 1px solid #E2DCD3;*/
+    line-height: 40px;
+}
+.five-word {
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 8px;
+    margin-left: -7px;
+}
+.six1, .six2, .six3, .six4 {
+    border-top: 1px solid #E2DCD3;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    margin-left: 8px;
+}
+.six-block {
+    width: 90px;
+    height: 80px;
+    background: #666666;
+    border: 1px solid #C5C5C5;
+}
+.img-label {
+    position: absolute;
+    margin-top: -22px;
+    margin-left: -17px;
+    z-index: 2;
+    color: white;
+    text-align: center;
+    height: 18px;
+    width: 70px;
+    line-height: 18px;
+    font-size: 11px;
+    border-bottom: 18px solid #00C2AE;
+    border-left: 18px solid transparent;
+    border-right: 18px solid transparent;
+    transform: rotate(-45deg);
+}
+.six-word {
+    width: 75%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+}
+.six-topw {
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+}
+.six-wordm1 {
+    font-size: 15px;
+    margin-top: 4px;
+}
+.six-wordm2 {
+    font-size: 12px;
+    color:black;
+    margin-top: 2px;
+}
+.six-wordm3 {
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    /*margin-left:5px; */
+}
+.six-bluew1 {
+    color: #28D6C7;
+    font-size: 20px;
+}
+.six-bluew2 {
+    color: #28D6C7;
+    font-size: 15px;
+    margin-top: 5px;
+}
+.six-bottom {
+    width: 97%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.six-save {
+    width: 50px;
+    height: 19px;
+    border-radius: 3px;
+    border:1px solid #FFA51C;
+    color: #FFA51C;
+    font-size: 12px;
+    text-align: center;
+    line-height: 19px;
+    margin-left:8px;
+    margin-top: 5px;
+}
+.six-leave {
+    font-size: 12px;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 5px;
+}
+.six-door {
+    font-size: 13px;
+    margin-top: 6px;
+    margin-left: 6px;
+}
+.go {
+    width: 110%;
+    margin-left: -15px;
+    height: 40px;
+    background: #8FC6EA;
+    color: #00AFCC;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.go-word {
+    width: 94%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 15px;
+}
