@@ -298,6 +298,7 @@
     height: 50px;
     display: flex;
     flex-direction: column;
+    margin-top:12px;
 }
 .six-wordm1 {
     font-size: 15px;
@@ -330,6 +331,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin-top:-4px;
 }
 .six-save {
     width: 50px;
