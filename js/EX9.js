@@ -61,6 +61,7 @@ $ (document).ready(function() {
         map.centerAndZoom(west_lake,15);
     });
 });
+
 $ (document).ready(function() {
     $(".button1").click(function() {
         map.centerAndZoom(HZNU,18);
