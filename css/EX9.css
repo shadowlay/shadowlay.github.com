@@ -1,0 +1,34 @@
+html, body {
+    width: 100%;
+    height: 100%;
+}
+#myMap {
+    height: 100%;
+    width: 75%;
+}
+#HZNU-Hotel {
+    position: absolute;
+    display: inline-block;;
+    top:0;
+    left: 75%;
+    width: 25%;
+    height: 70%;
+}
+.button1 {
+    position: absolute;
+    display: inline-block;;
+    top:20px;
+    left: 80%;
+    width: 80px;
+    height: 20px;
+    font-size: 11px;
+}
+.button2 {
+    position: absolute;
+    display: inline-block;;
+    top:20px;
+    left: 90%;
+    width: 90px;
+    height: 20px;
+    font-size: 11px;
+}
