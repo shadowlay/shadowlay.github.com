@@ -56,14 +56,12 @@ var transit = new BMap.TransitRoute(map, {
 });
 transit.search(HZNU, "宾馆");
 
-$(document).ready(function() {
+$ (document).ready(function() {
     $(".button2").click(function() {
         map.centerAndZoom(west_lake,15);
     });
-
 });
-
-$(document).ready(function() {
+$ (document).ready(function() {
     $(".button1").click(function() {
         map.centerAndZoom(HZNU,18);
 
